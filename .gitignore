@@ -2,3 +2,4 @@ archive*
 .ipynb*
 genius_token.txt
 storage.pkl
+tmp*

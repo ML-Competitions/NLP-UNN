@@ -3,3 +3,5 @@ archive*
 genius_token.txt
 storage.pkl
 tmp*
+bleurt/
+test_trainer/

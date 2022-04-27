@@ -5,3 +5,4 @@ storage.pkl
 tmp*
 bleurt/
 test_trainer/
+model_storage/
